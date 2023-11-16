@@ -10,3 +10,10 @@ File: [ownership.rs](./src/bin/ownership.rs)
 build: cargo build --bin ownership
 run: cargo run --bin ownership
 ```
+###  2. Enums
+File: [enums.rs](./src/bin/enums.rs)
+```
+build: cargo build --bin enums
+run: cargo run --bin enums
+```
+
